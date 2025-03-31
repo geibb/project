@@ -4,4 +4,18 @@ body {
 
 .banner {
     background-color: midnightblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1)
+}
+
+.content {
+    padding 80px 20px; /*pushes the rest of the website down*/
+
 }
