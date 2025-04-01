@@ -1,14 +1,16 @@
 body {
     background-color: #3F72AF;
+    color: white;
+    font-family: "Space Mono", "Courier New", monospace;
 }
 
 .banner {
     background-color: #112D4E;
     color: white;
     text-align: left;
-    padding: 4px;
+    padding: 4px 20px;
     font-size: 16px;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Space Mono", "Courier New", monospace;
     position: fixed;
     top: 0;
     left: 0;
@@ -17,6 +19,7 @@ body {
 }
 
 .content {
-    padding: 80px 20px; /*pushes the rest of the website down*/
+    padding: 20px 0px; /*pushes the rest of the website down*/
+    font-size: 16px;
 
 }
